@@ -4,11 +4,11 @@
 
 This project demonstrates the complete lifecycle of building an interactive Tableau dashboard for sales and customer analysis. It showcases real-world data analysis techniques, visualization planning, interactivity, and KPI reporting
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/b77695f9-1688-4230-bfbe-7d25120aa244" alt="image" width="400" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/ff25d120-915e-47b8-b4f1-709eb76247ff" alt="image" width="400" />
 </p>
 
