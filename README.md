@@ -4,6 +4,10 @@
 
 This project demonstrates the complete lifecycle of building an interactive Tableau dashboard for sales and customer analysis. It showcases real-world data analysis techniques, visualization planning, interactivity, and KPI reporting — all critical skills for roles such as Data Analyst, BI Developer, and Business Intelligence Consultant.
 
+![Sales](https://github.com/user-attachments/assets/5d74a9b1-2804-4e3f-848c-74822e82d8a4)
+<img width="1206" height="708" alt="image" src="https://github.com/user-attachments/assets/132a2d0b-74ec-4a84-b4bf-02be0a5119e7" />
+
+
 ---
 
 ## Project Objectives
